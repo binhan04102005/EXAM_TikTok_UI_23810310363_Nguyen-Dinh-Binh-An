@@ -2,8 +2,8 @@
 
 ## Thông tin sinh viên
 
-- Họ tên: Nguyễn Hoàng Dũng
-- MSSV: 23810310338
+- Họ tên: Nguyễn Đình Bình An
+- MSSV: 23810310363
 - Lớp: D18CNPM5
 
 ## Mô tả bài làm
